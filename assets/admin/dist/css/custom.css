@@ -1,0 +1,14 @@
+.img-close {
+	position: absolute;
+	top: -8px;
+	left: -8px;
+	background: red;
+	color: white;
+	padding: 2px 7px;
+	border-radius: 12px;
+	cursor: pointer;
+}
+
+#input-image {
+	display: none;
+}
